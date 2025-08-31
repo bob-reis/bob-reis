@@ -42,13 +42,6 @@
 
 ---
 
-## 🐍 Cyber Snake
-<p align="center">
-  <img src="https://github.com/bob-reis/bob-reis/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ffff)](https://www.linkedin.com/in/bobreis/)
 [![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@BobzeraTech)
