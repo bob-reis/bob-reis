@@ -8,19 +8,20 @@
 
 ```js
 const bob = {
-  alias: "Def3nse",
-  focus: ["Secure Software Development", "Threat Modeling", "AppSec Automation"],
-  code: ["Python", "Go", "Bash", "C/C++", "Terraform", "YAML"],
+  alias: "Att4ck and Def3nse",
+  focus: ["Secure Software Development", "Threat Modeling", "AppSec Automation", Cybersec"],
+  code: ["Python", "Go", "Bash", "C/C++", "Terraform", "YAML", "and more..."],
   devSecOps: ["SonarQube", "SAST/DAST", "Azure DevOps", "GitHub Actions", "GitLab CI"],
   threatModeling: ["OWASP Threat Dragon", "STRIDE", "MITRE ATT&CK"],
   philosophy: "Security is culture, not a checklist.",
   funFact: "Prefiro logs a PPTs e já automatizei até café ☕ (quase...)"
+  effect phrase: "Difícil é aprenser a ler, o resto está escrito..."
 }
 ```
 
 ---
 
-## 💻 What I Do (Shell Style)
+## 💻 What I Do
 
 ```bash
 # Investigação & Red Team
