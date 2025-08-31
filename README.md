@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Hacker+%7C+Cyberpunk+%7C+DevSecOps;Transformando+caos+em+pipelines+seguros;Logs+%3E+PowerPoints;Pense+como+um+atacante%2C+construa+como+um+arquiteto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Hacker+%7C+Def3nse+%7C+DevSecOps;Transformando+caos+em+pipelines+seguros;Logs+%3E+PowerPoints;Pense+como+um+atacante%2C+construa+como+um+arquiteto" />
 </p>
 
 ---
