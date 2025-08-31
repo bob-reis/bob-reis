@@ -23,7 +23,7 @@ const bob = {
 }
 ```
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=q9xye640hf6t1qbby3f2pe2e8&count=1">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=q9xye640hf6t1qbby3f2pe2e8&count=2">
 </p>
 
 ---
