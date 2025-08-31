@@ -65,15 +65,6 @@ stages:
 
 ---
 
-## 🐍 Contribution Graph
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/bob-reis/bob-reis/blob/output/github-snake-dark.svg)
-</div>
-
----
-
 ## 📊 Coding Stats
 <!-- Stats -->
 <div align="center">
