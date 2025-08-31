@@ -18,7 +18,7 @@ const bob = {
   devSecOps: ["SonarQube", "SAST/DAST", "Azure DevOps", "GitHub Actions", "GitLab CI"],
   threatModeling: ["OWASP Threat Dragon", "STRIDE", "MITRE ATT&CK"],
   philosophy: "Security is culture, not a checklist.",
-  funFact: "Prefiro logs a PPTs e já automatizei até café ☕ (quase...)"
+  funFact: "Prefiro logs a PPTs e já automatizei até café ☕ (quase...)",
   effect phrase: "Difícil é aprenser a ler, o resto está escrito..."
 }
 ```
