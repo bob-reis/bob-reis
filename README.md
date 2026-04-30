@@ -19,7 +19,7 @@ const bob = {
   threatModeling: ["OWASP Threat Dragon", "STRIDE", "MITRE ATT&CK"],
   philosophy: "Security is culture, not a checklist.",
   funFact: "Prefiro logs a PPTs e já automatizei até café ☕ (quase...)",
-  effect phrase: "Difícil é aprenser a ler, o resto está escrito..."
+  effect phrase: "Difícil é aprender a ler, o resto está escrito..."
 }
 ```
 <p align="center">
