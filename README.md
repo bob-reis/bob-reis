@@ -22,10 +22,6 @@ const bob = {
   effect phrase: "Difícil é aprender a ler, o resto está escrito..."
 }
 ```
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=q9xye640hf6t1qbby3f2pe2e8&count=2">
-</p>
-
 ---
 
 ## 💻 What I Do
